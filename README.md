@@ -1,6 +1,6 @@
 ### Hi there, I'm Anand Patel [navgurukulLite][website] 👋
 
-[![Website](https://github.com/anandpatel504/website?label=navgurukulLite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://anand18.firebaseapp.com/website?label=navgurukulLite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anandpatel504?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcanandpatel504&screen_name=anandpatel504)
 
 ## I'm a Student, Developer, and Mentor!!
@@ -17,7 +17,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anand.coder | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][facebook]
 [<img align="left" alt="anandpatel504 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anandpatel504 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="anand.coder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
