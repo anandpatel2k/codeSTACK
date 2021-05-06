@@ -1,6 +1,6 @@
 ### Hi there, I'm Anand Patel [navgurukulLite][website] 👋
 
-[![Website](https://anand18.firebaseapp.com/website?label=navgurukulLite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=https://anand18.firebaseapp.com&style=for-the-badge&url=https%3A%2F%2Fhttps://anand18.firebaseapp.com)](https://anand18.firebaseapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anandpatel504?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcanandpatel504&screen_name=anandpatel504)
 
 ## I'm a Student, Developer, and Mentor!!
